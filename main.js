@@ -68,7 +68,7 @@ const myRound = Math.round(89.279);
 console.log(myRound); 
 
 // випадкове число між 0..10 → myRandom
-const myRandom = Math.random() * 10;
+const myRandom = Math.random() * 11;
 console.log(myRandom); // (random value between 0 and 10)
 
 // 3 у 5 степені → myPow
